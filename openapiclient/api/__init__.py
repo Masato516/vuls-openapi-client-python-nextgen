@@ -1,5 +1,3 @@
-from __future__ import absolute_import
-
 # flake8: noqa
 
 # import apis into api package
@@ -14,3 +12,4 @@ from openapiclient.api.pkg_cpe_api import PkgCpeApi
 from openapiclient.api.role_api import RoleApi
 from openapiclient.api.server_api import ServerApi
 from openapiclient.api.task_api import TaskApi
+
